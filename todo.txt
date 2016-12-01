@@ -1,0 +1,2 @@
+make user chose the diffuclty level
+make ony one draw and animate method

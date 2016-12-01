@@ -1,0 +1,126 @@
+C:\Users\silvaluisf\Desktop\Asteroid Game 3\AsteroidGame\bin\Debug\AsteroidGame.exe
+C:\Users\silvaluisf\Desktop\Asteroid Game 3\AsteroidGame\bin\Debug\AsteroidGame.pdb
+C:\Users\silvaluisf\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\silvaluisf\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.MainForm.resources
+C:\Users\silvaluisf\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.Properties.Resources.resources
+C:\Users\silvaluisf\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\silvaluisf\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\silvaluisf\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.exe
+C:\Users\silvaluisf\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.pdb
+H:\FERR\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.exe
+H:\FERR\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.pdb
+H:\FERR\My Programs\Asteroid Game 3\AsteroidGame\bin\Debug\AsteroidGame.exe
+H:\FERR\My Programs\Asteroid Game 3\AsteroidGame\bin\Debug\AsteroidGame.pdb
+H:\FERR\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\FERR\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.MainForm.resources
+H:\FERR\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.Properties.Resources.resources
+H:\FERR\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\FERR\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\FERR\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.exe
+F:\FERR\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.pdb
+F:\FERR\My Programs\Asteroid Game 3\AsteroidGame\bin\Debug\AsteroidGame.exe
+F:\FERR\My Programs\Asteroid Game 3\AsteroidGame\bin\Debug\AsteroidGame.pdb
+F:\FERR\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\FERR\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.MainForm.resources
+F:\FERR\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.Properties.Resources.resources
+F:\FERR\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\FERR\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fernando\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.exe
+C:\Users\Fernando\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.pdb
+C:\Users\Fernando\Desktop\Asteroid Game 3\AsteroidGame\bin\Debug\AsteroidGame.exe
+C:\Users\Fernando\Desktop\Asteroid Game 3\AsteroidGame\bin\Debug\AsteroidGame.pdb
+C:\Users\Fernando\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.MainForm.resources
+C:\Users\Fernando\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fernando\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\AsteroidGame.exe
+H:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\AsteroidGame.pdb
+H:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\bin\Debug\AsteroidGame.exe
+H:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\bin\Debug\AsteroidGame.pdb
+H:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\AsteroidGame.MainForm.resources
+H:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\AsteroidGame.Properties.Resources.resources
+H:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\AsteroidGame.exe
+F:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\AsteroidGame.pdb
+F:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\bin\Debug\AsteroidGame.exe
+F:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\bin\Debug\AsteroidGame.pdb
+F:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\AsteroidGame.MainForm.resources
+F:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\AsteroidGame.Properties.Resources.resources
+F:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\AsteroidGame.exe
+D:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\AsteroidGame.pdb
+D:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\bin\Debug\AsteroidGame.exe
+D:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\bin\Debug\AsteroidGame.pdb
+D:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\AsteroidGame.MainForm.resources
+D:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\AsteroidGame.Properties.Resources.resources
+D:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FERR\My Programs\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\AsteroidGame.exe
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\AsteroidGame.pdb
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.5\AsteroidGame\bin\Debug\AsteroidGame.exe
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.5\AsteroidGame\bin\Debug\AsteroidGame.pdb
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\AsteroidGame.MainForm.resources
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\AsteroidGame.Properties.Resources.resources
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.5\AsteroidGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\AsteroidGame.exe
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\AsteroidGame.pdb
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.6\AsteroidGame\bin\Debug\AsteroidGame.exe
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.6\AsteroidGame\bin\Debug\AsteroidGame.pdb
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\AsteroidGame.MainForm.resources
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\AsteroidGame.Properties.Resources.resources
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\silvaluisf\Desktop\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\FERR\My Programs\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\AsteroidGame.exe
+F:\FERR\My Programs\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\AsteroidGame.pdb
+F:\FERR\My Programs\Asteroid Game 2.6\AsteroidGame\bin\Debug\AsteroidGame.exe
+F:\FERR\My Programs\Asteroid Game 2.6\AsteroidGame\bin\Debug\AsteroidGame.pdb
+F:\FERR\My Programs\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\FERR\My Programs\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\AsteroidGame.MainForm.resources
+F:\FERR\My Programs\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\AsteroidGame.Properties.Resources.resources
+F:\FERR\My Programs\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\FERR\My Programs\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ro\Desktop\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\AsteroidGame.exe
+C:\Users\ro\Desktop\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\AsteroidGame.pdb
+C:\Users\ro\Desktop\Asteroid Game 2.6\AsteroidGame\bin\Debug\AsteroidGame.exe
+C:\Users\ro\Desktop\Asteroid Game 2.6\AsteroidGame\bin\Debug\AsteroidGame.pdb
+C:\Users\ro\Desktop\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ro\Desktop\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\AsteroidGame.MainForm.resources
+C:\Users\ro\Desktop\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\AsteroidGame.Properties.Resources.resources
+C:\Users\ro\Desktop\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ro\Desktop\Asteroid Game 2.6\AsteroidGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ro\Desktop\Asteroid Game 2.6g\AsteroidGame\obj\x86\Debug\AsteroidGame.exe
+C:\Users\ro\Desktop\Asteroid Game 2.6g\AsteroidGame\obj\x86\Debug\AsteroidGame.pdb
+C:\Users\ro\Desktop\Asteroid Game 2.6g\AsteroidGame\bin\Debug\AsteroidGame.exe
+C:\Users\ro\Desktop\Asteroid Game 2.6g\AsteroidGame\bin\Debug\AsteroidGame.pdb
+C:\Users\ro\Desktop\Asteroid Game 2.6g\AsteroidGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ro\Desktop\Asteroid Game 2.6g\AsteroidGame\obj\x86\Debug\AsteroidGame.MainForm.resources
+C:\Users\ro\Desktop\Asteroid Game 2.6g\AsteroidGame\obj\x86\Debug\AsteroidGame.Properties.Resources.resources
+C:\Users\ro\Desktop\Asteroid Game 2.6g\AsteroidGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ro\Desktop\Asteroid Game 2.6g\AsteroidGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ro\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.exe
+C:\Users\ro\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.pdb
+C:\Users\ro\Desktop\Asteroid Game 3\AsteroidGame\bin\Debug\AsteroidGame.exe
+C:\Users\ro\Desktop\Asteroid Game 3\AsteroidGame\bin\Debug\AsteroidGame.pdb
+C:\Users\ro\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ro\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.MainForm.resources
+C:\Users\ro\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.Properties.Resources.resources
+C:\Users\ro\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ro\Desktop\Asteroid Game 3\AsteroidGame\obj\x86\Debug\GenerateResource.write.1.tlog
+O:\Ferr\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.exe
+O:\Ferr\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.pdb
+O:\Ferr\My Programs\Asteroid Game 3\AsteroidGame\bin\Debug\AsteroidGame.exe
+O:\Ferr\My Programs\Asteroid Game 3\AsteroidGame\bin\Debug\AsteroidGame.pdb
+O:\Ferr\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\Ferr\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.MainForm.resources
+O:\Ferr\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\AsteroidGame.Properties.Resources.resources
+O:\Ferr\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\GenerateResource.read.1.tlog
+O:\Ferr\My Programs\Asteroid Game 3\AsteroidGame\obj\x86\Debug\GenerateResource.write.1.tlog
