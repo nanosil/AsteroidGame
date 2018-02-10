@@ -1,4 +1,4 @@
-#Classic Asteroid Shooting Game
+# Classic Asteroid Shooting Game
 
 ### Goal
 To replicate the asteroid game, while learning basic coding skills.
